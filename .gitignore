@@ -34,3 +34,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+NatureStarterKit/
+.jpg
+Locomotion Setup/
+Raw Mocap Data/
+UnityChan/
